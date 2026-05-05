@@ -1,21 +1,12 @@
 ## Hi there 👋
 
-
-<!--
-**Tehila-123/Tehila-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-👋 Hi there! I'm an enthusiastic Full Stack Designer who loves bringing ideas to life — from the way things look to how they work behind the scenes.<br>🎨 I enjoy creating clean and beautiful designs that are easy to use and pleasant to interact with.<br>💡 Whether it's crafting smooth user experiences or building strong, functional systems, I find joy in every part of the process.<br>🚀 I'm always curious, always learning, and passionate about turning creative thoughts into real-world solutions<br>🧠 Fun fact: I sometimes sketch out designs on paper before touching the keyboard — it helps me think like a user first! ✏️<br>
+I'm a Full Stack Designer focused on building clean, user-friendly digital experiences.
+
+I enjoy combining thoughtful design with functional development to create products that are both visually appealing and effective.
+
+I'm continuously learning and exploring new ways to turn ideas into practical, real-world solutions.
+
+🧠 Fun fact: I often sketch ideas on paper before designing digitally.
 
 
